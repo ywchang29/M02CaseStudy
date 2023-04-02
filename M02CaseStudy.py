@@ -3,8 +3,8 @@
 #Purpose: Apply the knowledge and skill in coding if...else and while statements in Python
 
 while True:
-    last_name = input("Enter student's last name (enter 'end' to quit): ")
-    if last_name == 'end':
+    last_name = input("Enter student's last name (enter 'ZZZ' to quit): ")
+    if last_name == 'ZZZ':
         break
 
     first_name = input("Enter student's first name: ")
